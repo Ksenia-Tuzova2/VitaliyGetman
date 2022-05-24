@@ -1,0 +1,11 @@
+.Footer{
+	width: 100%;
+}
+.Footer__FlexContainer{
+	display: flex;
+	
+}
+img{
+	height: 54px;
+	width: 54px;
+}
