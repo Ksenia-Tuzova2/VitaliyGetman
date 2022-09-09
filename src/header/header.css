@@ -1,0 +1,11 @@
+.Header{
+	margin: 42px 47px 0 47px;
+}
+.flexContainer{
+display:flex;
+flex-direction: row;
+}
+.Header__img{
+	width: 400px;
+	line-height: 24px;
+}
